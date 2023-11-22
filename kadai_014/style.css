@@ -1,12 +1,15 @@
 body {
-  font-family: "Arial", "Meiryo", sens-serif; text-align: center;
-  font-size:20px;
+  font-family: "Arial", "Meiryo", sans-serif; text-align: center;
+}
+html {
+   font-size: 20px
+}
+h1 {
+   font-size:2rem; 
+   letter-spacing: 1.2em
 }
 .google-fonts {
-  font-family: 'Noto Sans JP', sans-serif;
-}
-.font-size {
-  font-size:2rem;
+  font-family: 'Josefin Sans', sans-serif;
 }
 .text-skyblue {
  color: skyblue;
@@ -22,7 +25,4 @@ body {
 }
 #basic p {
   font-weight: bold;
-}
-.letter-spacing {
-  letter-spacing: 48px
 }
